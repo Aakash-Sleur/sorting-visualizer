@@ -1,0 +1,13 @@
+.main-container {
+    background: radial-gradient(blue, black);
+}
+
+.bars {
+    width: 0.2vh;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+button {
+    background-color: white;
+}
