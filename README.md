@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Description
+
+The Project is inspired by the sorting visualizer made by Clement Mihailescu on YouTube.
+The above project includes algorithms as follows:
+
+ - Quick Sort
+ - Merge Sort
+ - Heap Sort
+ - Insertion Sort
+ - Bubble Sort
+ - Shell Sort 
+ - Cocktail Sort
+ - Comb Sort
+ - Odd-Even Sort
+ - Radix Sort
+ - Bucket Sort
+ - Counting Sort
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Web link
+
+Here is the link to the deployed versio of the above react project:\
+https://sorting-visualizer-3457c.web.app
+
+
 
 ## Available Scripts
 
